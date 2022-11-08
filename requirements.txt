@@ -1,0 +1,4 @@
+#These are the requirements for the Lesson 9 project about searching for presidents' last names
+
+pytest==4.6
+requests
